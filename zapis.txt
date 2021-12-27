@@ -1,0 +1,22 @@
+saldo
+1000000.0
+wplata poczatkowa
+saldo
+-140000.0
+zus
+zakup
+raspberry
+15000.0
+5.0
+sprzedaz
+raspberry
+25000.0
+5.0
+zakup
+raspberry
+1.0
+1500.0
+saldo
+10.0
+raspberry
+stop
